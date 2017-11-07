@@ -1,6 +1,6 @@
 ﻿## WPF-FormJtter
 
-A window dithering demo
+A window dithering demo.
 
 ## ScreenShot:
 
